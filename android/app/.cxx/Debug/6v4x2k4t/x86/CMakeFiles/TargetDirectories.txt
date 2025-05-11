@@ -1,0 +1,2 @@
+D:/Flutter Projects/Weatherly/android/app/.cxx/Debug/6v4x2k4t/x86/CMakeFiles/edit_cache.dir
+D:/Flutter Projects/Weatherly/android/app/.cxx/Debug/6v4x2k4t/x86/CMakeFiles/rebuild_cache.dir
