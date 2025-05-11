@@ -1,6 +1,5 @@
 # Weatherly ☀️🌧️
 
-![App Logo](assets/images/logo.png)
 
 A beautiful, modern Flutter weather app that brings you real-time weather updates, dynamic backgrounds, and a smooth user experience. 🌈
 
@@ -68,7 +67,6 @@ A beautiful, modern Flutter weather app that brings you real-time weather update
 
 ## ✨ Customization
 - **App Icon:** ![App Icon](assets/images/icon3.png)
-- **Logo:** ![Logo](assets/images/logo.png)
 - **Add your own screenshots** in `assets/images/` and update the paths above.
 
 ---
