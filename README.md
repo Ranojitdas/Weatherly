@@ -26,7 +26,7 @@ A beautiful, modern Flutter weather app that brings you real-time weather update
 
 | Home Screen | City Search | Hourly Forecast |
 |-------------|-------------|-----------------|
-| ![Screenshot1](assets/images/screenshot1.png) | ![Screenshot2](assets/images/screenshot2.png) | ![Screenshot3](assets/images/screenshot3.png) |
+| ![Screenshot1](weatherly image 5.png) | ![Screenshot2](assets/images/screenshot2.png) | ![Screenshot3](assets/images/screenshot3.png) |
 
 ---
 
