@@ -22,13 +22,13 @@ A beautiful, modern Flutter weather app that brings you real-time weather update
 
 ## 📱 Screenshots
 
-> _Add your own screenshots in this section!_
-## 📱 Screenshots
+| Cloudy Evening  | City Search | Hourly Forecast |
+|-----------------|-------------|-----------------|
+| <img src="weatherly-img-1.png" alt="Home Screen" width="400" height="600"/> | <img src="weatherly-img-2.png" alt="City Search" width="400" height="600"/> | <img src="weatherly-img-3.png" alt="Hourly Forecast" width="400" height="600"/> |
 
-|Cloudy Evening  | City Search | Hourly Forecast | Extra 1 | Extra 2 |
-|-------------|-------------|-----------------|---------|---------|
-| <img src="weatherly-img-1.png" alt="Home Screen" width="400" height="600"/> | <img src="weatherly-img-2.png" alt="City Search" width="400" height="600"/> | <img src="weatherly-img-3.png" alt="Hourly Forecast" width="400" height="600"/> | <img src="weatherly-img-4.png" alt="Extra 1" width="400" height="600"/> | <img src="weatherly-img-5.png" alt="Extra 2" width="400" height="600"/> |
-
+| Extra 1 | Extra 2 |
+|---------|---------|
+| <img src="weatherly-img-4.png" alt="Extra 1" width="310" height="600"/> | <img src="weatherly-img-5.png" alt="Extra 2" width="310" height="600"/> |
 ## 🛠️ Getting Started
 
 1. **Clone the repository:**
