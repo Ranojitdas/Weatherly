@@ -22,11 +22,11 @@ A beautiful, modern Flutter weather app that brings you real-time weather update
 
 ## 📱 Screenshots
 
-| Cloudy Evening  | City Search | Hourly Forecast |
+| Cloudy Evening  | Cloudy day | Raining |
 |-----------------|-------------|-----------------|
 | <img src="weatherly-img-1.png" alt="Home Screen" width="400" height="600"/> | <img src="weatherly-img-2.png" alt="City Search" width="400" height="600"/> | <img src="weatherly-img-3.png" alt="Hourly Forecast" width="400" height="600"/> |
 
-| Extra 1 | Extra 2 |
+| Cloudy Sky | Clear Sky |
 |---------|---------|
 | <img src="weatherly-img-4.png" alt="Extra 1" width="310" height="600"/> | <img src="weatherly-img-5.png" alt="Extra 2" width="310" height="600"/> |
 ## 🛠️ Getting Started
