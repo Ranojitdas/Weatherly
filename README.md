@@ -28,7 +28,7 @@ A beautiful, modern Flutter weather app that brings you real-time weather update
 
 | Cloudy Sky | Clear Sky |
 |---------|---------|
-| <img src="weatherly-img-4.png" alt="Extra 1" width="400" height="600"/> | <img src="weatherly-img-5.png" alt="Extra 2" width="400" height="600"/> |
+| <img src="weatherly-img-4.png" alt="Extra 1" width="300" height="600"/> | <img src="weatherly-img-5.png" alt="Extra 2" width="300" height="600"/> |
 ## 🛠️ Getting Started
 
 1. **Clone the repository:**
