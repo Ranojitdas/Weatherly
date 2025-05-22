@@ -23,12 +23,11 @@ A beautiful, modern Flutter weather app that brings you real-time weather update
 ## 📱 Screenshots
 
 > _Add your own screenshots in this section!_
+## 📱 Screenshots
 
-| Home Screen | City Search | Hourly Forecast |
-|-------------|-------------|-----------------|
-| ![Screenshot1](weatherly-image-1.png) | ![Screenshot2](assets/images/screenshot2.png) | ![Screenshot3](assets/images/screenshot3.png) |
-
----
+| Home Screen | City Search | Hourly Forecast | Extra 1 | Extra 2 |
+|-------------|-------------|-----------------|---------|---------|
+| <img src="weatherly-img-1.png" alt="Home Screen" width="200" height="400"/> | <img src="weatherly-img-2.png" alt="City Search" width="200" height="400"/> | <img src="weatherly-img-3.png" alt="Hourly Forecast" width="200" height="400"/> | <img src="weatherly-img-4.png" alt="Extra 1" width="200" height="400"/> | <img src="weatherly-img-5.png" alt="Extra 2" width="200" height="400"/> |
 
 ## 🛠️ Getting Started
 
