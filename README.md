@@ -65,7 +65,7 @@ A beautiful, modern Flutter weather app that brings you real-time weather update
 ---
 
 ## ✨ Customization
-- **App Icon:** ![App Icon](assets/images/icon3.png)
+- **App Icon:** <img src="assets/images/icon3.png" alt="App Icon" width="100" height="100"/>
 - **Add your own screenshots** in `assets/images/` and update the paths above.
 
 ---
